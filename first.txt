@@ -3,3 +3,5 @@ year is 2022
 Month is November
 Date is 12
 It is winter
+Laptop name is Dell
+Mobile is iphone
